@@ -9,4 +9,4 @@ Problem-3: With a single integer as the input, generate the following until a = 
 Problem-4: Get the total count of number listed in the dictionary which is multiple of [1,2,3,4,5,6,7,8,9]
 Each problem is solved in its own .java file as instructed.
 
-All the programs are there in src
+All the programs are there in src -> programs 
